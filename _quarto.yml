@@ -1,0 +1,48 @@
+project:
+  type: website
+
+website:
+  repo-url: https://github.com/quarto-dev/quarto-demo
+  repo-actions: [edit, issue]
+  sidebar:
+      title: "emotiony.io documentation"
+      style: "floating"
+      search: true
+      contents:
+        - href: index.qmd
+          text: Home
+        - about.qmd
+        - text: "---"
+        - section: "Basics"
+          contents:
+            - react.qmd
+            - aws.qmd
+            - solidity.qmd
+            - engines.qmd
+        - text: "---"
+        - section: "Layout"
+          contents:
+            - emotions.qmd
+            - planets.qmd
+        - text: "---"
+        - section: "GitHub"
+          contents:
+            - howtocommit.qmd      
+  page-footer: 
+    left: "Copyright 2021,emotiony.io"
+    background: light
+    center: "where emotions live" 
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/    
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+
+
+

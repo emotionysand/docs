@@ -1,0 +1,96 @@
+---
+title: "Solidity"
+---
+
+About Crypto and Solidity
+
+
+# React  App
+
+#react-component #react #css
+
+## GitHub code management
+
+### GitHub production read.me
+[READ.ME GitHub production](https://github.com/emotionyio/emotionyWebApp-prod/blob/master/README.md)
+
+## Components Definition
+### Used along emotiony.io
+[[react component definition]]
+
+## Folder and components tree map
+
+![[Pasted image 20221125152559.png|275]]
+
+### Tree folder: 
+[[App React Map Summary]]
+
+### Components
+[[App React Components Summary]]
+
+### Pages 
+[[App  React Pages Summary]]
+
+# Pages and mock-ups
+
+```start-multi-column  
+ID: emotiony.io pages and domains  
+number of columns: 3  
+largest column:   
+```
+
+**main pages**
+<mark style="background: #ABF7F7A6;">public and dynamic</mark>
+
+- 🚀[[home v3.0 > 3.1]]
+- 🚀[[login 3.0 > 3.1]]
+- [[marketplace 3.1]]
+
+--- end-column ---
+
+**user pages**
+<mark style="background: #FF5582A6;">private and dynamic</mark>
+
+- 🚀[[myGalaxy 3.0 > 3.1]]
+- 🚀[[myPlanetDetail 3.0 > 3.1]]
+- [[myProfile 3.1]]
+- [[myMetrics 3.1]]
+- [[myPayXData 3.1]]
+
+--- end-column ---
+
+**info pages**
+<mark style="background: #D2B3FFA6;">public and static</mark>
+
+- [[pricing 3.1]]
+- [[about 3.1]]
+- [[how-it-works 3.1]]
+- [[terms and policy 3.1]]
+
+=== end-multi-column
+
+# UML and Wireframes
+
+## Use cases and UI basic kit
+[emotiony UI basic kit and use cases](https://www.figma.com/file/GJFkYqIMXsvcW0wvx6F4qw/css_emotiony?node-id=1%3A1227link)
+
+## Wire-frames
+
+### Drafts
+[[emotiony-wireframe drafts]]
+
+### High-fidelity
+[emotiony-wireframe high-fidelity](https://www.figma.com/file/GJFkYqIMXsvcW0wvx6F4qw/css_emotiony?node-id=1%3A1227link)
+
+### Low-fidelity
+[[emotiony-wireframe low-fidelity]]
+
+
+![[Wireframe-lf3.001.png|600]]
+
+# Communication style
+
+[[Messages error]]
+[Perfect button](https://wix-ux.com/designing-the-perfect-button-e77ec1f32ee5)  
+
+

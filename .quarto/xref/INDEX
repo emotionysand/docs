@@ -1,0 +1,32 @@
+{
+  "about.qmd": {
+    "about.html": "935ead72"
+  },
+  "index.qmd": {
+    "index.html": "627af1ee"
+  },
+  "engines.qmd": {
+    "engines.html": "e8f2001e"
+  },
+  "react.qmd": {
+    "react.html": "ec229edc"
+  },
+  "solidity.qmd": {
+    "solidity.html": "81d41a04"
+  },
+  "emotions.qmd": {
+    "emotions.html": "62bf3363"
+  },
+  "aws.qmd": {
+    "aws.html": "2b037a35"
+  },
+  "planets.qmd": {
+    "planets.html": "167e8d7b"
+  },
+  "404.qmd": {
+    "404.html": "b06a6cd2"
+  },
+  "howtocommit.qmd": {
+    "howtocommit.html": "cc74ff0e"
+  }
+}
